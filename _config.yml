@@ -62,6 +62,9 @@ linkedin:           sgonthiez
 #xmpp:              username@server.com
 #hackernews:        username
 
+# Google Analytics
+google_analytics: UA-154892105-1
+
 # Gems
 gems:
   - jekyll-mentions
