@@ -18,12 +18,12 @@ The day has 24 hours, if you sleep for 8 that leaves us with 16 hours of work an
 
 Now, as those that aren't willing to take action are gone, we can get to basics. First and foremost we need to know what's procrastination and when it occurs.
 
-*Procrastination is the art of delaying a task or group of tasks because:
-*Task requires some effort.
-*You are lazy.
-*You are tired.
-*You don't feel like doing that.
-*Insert some excuse here.
+* Procrastination is the art of delaying a task or group of tasks because:
+* Task requires some effort.
+* You are lazy.
+* You are tired.
+* You don't feel like doing that.
+* Insert some excuse here.
 
 Some of you might ask, it's a negative thing and I'm calling it art, why's that? That's because it's truly an art to find something over and over on YouTube (Facebook, etc.) that doesn't even seem interesting to you just so could delay the task (or tasks) that need some effort in order to be completed.
 
@@ -33,10 +33,10 @@ Battling procrastination isn't an easy task. I'm sure everyone procrastinates at
 
 Procrastination occurs when you give yourself unspecified tasks, also even more when there's a bunch of unspecified tasks. What I mean by that is adding tasks such as:
 
-*Clean the house.
-*Learn JavaScript.
-*Study.
-*etc.
+* Clean the house.
+* Learn JavaScript.
+* Study.
+* etc.
 
 All of the above tasks sound so horrifying in my head because nothing is defined what you'll actually do. Even if your house/flat isn't that big - cleaning it can be a huge task if you want to cover the whole area. You'd have to vacuum, wash all windows, curtains, rugs, clean the furniture, clean behind those unreachable places and move furniture in order to access them, etc.
 
@@ -53,11 +53,12 @@ Second step is being focused on what you do - meaning no distractions, no other 
 Lets see the pros and cons of good time management. Yes, there are cons as well.
 
 <b>Pros of time management</b>
-*You are being more productive - things are getting done.
-*No more delays.
-*Less stress because everything is according to the plan.
-*More confidence as again, things are getting done, you see yourself being more successful with daily tasks.
-*Positively affects your career, whether you're still in school or have a job.
+
+* You are being more productive - things are getting done.
+* No more delays.
+* Less stress because everything is according to the plan.
+* More confidence as again, things are getting done, you see yourself being more successful with daily tasks.
+* Positively affects your career, whether you're still in school or have a job.
 
 <b>Cons of time management</b>
 *You'll have an inner battle with yourself, especially if you're lazy.
@@ -79,11 +80,12 @@ You might think that having a daily task list and a journal will take up a lot o
 There's one important thing left - make a long term and short term plans and read it every single day. That's to keep you reminded of your life goals every single day. Take time to see what are your goals and what you want to accomplish. My advice is to never plan more more than 5 years in time and I think that's also too far. There are a few types of planning, those for short term and long term.
 
 Short term should be:
-*Current day plans - <b>This is the only one that's required to have for better time management</b>.
-*Plans for tomorrow.
-*Weekly plans.
-*Monthly plans.
-*Quarter plans - a.k.a 3 months plans.
+
+* Current day plans - <b>This is the only one that's required to have for better time management</b>.
+* Plans for tomorrow.
+* Weekly plans.
+* Monthly plans.
+* Quarter plans - a.k.a 3 months plans.
 
 Long term should be yearly plans and up to 5 years.
 
@@ -95,10 +97,10 @@ Biggest problem in the beginning might be how do you organize your tasks, how to
 
 Here is the <b>chart of tasks</b>. Tasks are separated into 4 categories:
 
-*1.Important and urgent.
-*2.Important and not urgent.
-*3.Urgent but not important
-*4.Not urgent not important.
+* 1.Important and urgent.
+* 2.Important and not urgent.
+* 3.Urgent but not important
+* 4.Not urgent not important.
 
 First category are your daily priorities and must be done as soon as possible. For example you have an important exam or job interview tomorrow so you need to get ready for it but you haven't even started yet! Usually first category is most frequent if you procrastinate a lot which is really a bad thing. Important and urgent tasks should be situations or events which you cannot predict and pop up of their own.
 
