@@ -153,7 +153,7 @@ Children are starving to death in Africa, dying of terrible diseases, can't have
 tl;dr: Get inspired and set clearly defined goals. We all have to do stuff we don't want to do in-order to **achieve** a goal. Surround yourself with motivated people (in person or online). Have gratitude for your ability to even get to learn and have access to the internet. Be **resilient**! 
 
 
-## 2.5 Learn to Learn Effectively
+## 2.5 Learn to Learn
 
 You've probably heard it before, we all have different styles that work for us. Let's try and uncover our methods of learning together! Unfortunately, this is an extremely difficult skill to master and individualise (I'll explain my personal techniques at the end). It took me 5 years (of 8 intense fulltime study years) to get to a technique that works best for me and I'm sure it could use refining. 
 
@@ -194,7 +194,7 @@ This aligns with my results visual (whiteboard), solitary (initially), logical (
 
 Once you have determined your learning styles, it's time to start studying according to them. It's safe to say the top 4 results would be highly applicable to you and you should try all 4 methods to the same topic to get the maximum benefit. 
 
-## 3. Lifestyle and Academic Performance
+# 3. Lifestyle and Academic Performance
 
 I'm going to start by pointing out the obvious - for best performance you need to have a balanced diet, exercise, sleep etc. I mentioned in the introduction I won't talk about these, much. I'll address the ideal situation, then I'll address the real-life student situation. 
 
@@ -209,24 +209,24 @@ Improving access to healthy foods and physical activities is linked to healthier
 * Skipping breakfast is associated with decreased cognitive performance (e.g., alertness, attention, memory, processing of complex visual display, problem-solving) among students.
 
 * Lack of adequate consumption of specific foods, such as fruits, vegetables, or dairy products, is associated with lower grades among students.
-Deficits of specific nutrients (i.e., vitamins A, B6, B12, C, folate, iron, zinc, and calcium) are associated with lower grades and higher rates of absenteeism and tardiness among students.
+Deficits of specific nutrients (i.e., vitamins A, B6, B12, C, folate, iron, zinc, magnesium and Omega3) are associated with lower grades and higher rates of absenteeism and tardiness among students.
 
 * Hunger due to insufficient food intake is associated with lower grades, higher rates of absenteeism, repeating a grade, and an inability to focus on students.
 
-# Evidence on physical activity and academic achievement 
+## Evidence on physical activity and academic achievement 
 
-* Students who are physically active tend to have better grades, school attendance, cognitive performance (e.g., memory), and classroom behaviours (e.g., on-task behaviour).24–30 
+* Students who are physically active tend to have better grades, school attendance, cognitive performance (e.g., memory), and classroom behaviours (e.g., on-task behaviour).
 
 * Higher physical activity and physical fitness levels are associated with improved cognitive performance (e.g., concentration, memory) among students.
 More participation in physical education class has been associated with better grades, standardized test scores, and classroom behaviour (e.g., on-task behaviour) among students.
 
-* Time spent in recess has been shown to positively affect students’ cognitive performance (e.g., attention, concentration) and classroom behaviours (e.g., not misbehaving).40–44
+* Time spent in recess has been shown to positively affect students’ cognitive performance (e.g., attention, concentration) and classroom behaviours (e.g., not misbehaving).
 
 * Brief classroom physical activity breaks (i.e., 5-10 minutes) are associated with improved cognitive performance (e.g., attention, concentration), classroom behaviour (e.g., on-task behaviour), and educational outcomes (e.g., standardized test scores, reading literacy scores, math fluency scores) among students.
 
 * Participation in extracurricular physical activities such as interscholastic sports has been associated with higher grade point averages (GPAs), lower drop-out rates, and fewer disciplinary problems among students.
 
-# Evidence on Sleep and academic achievement
+## Evidence on Sleep and academic achievement
 
 From most recent data:
 
@@ -264,31 +264,35 @@ Even in objective/criteria based marking your professors will compare you to you
 ## Start Early
 
 Start your assignment or study for a test earlier than your classmates (minimum 2 weeks before them ideally). 
+
 How:
-Ask them if they've started their assignment/study.
-Ask when they plan on starting.
-Integrate it into the normal conversation so you don't sound like a socially retarded nerd. Usually starting the conversation complaining about it and how you're procrastinating is a good method. If they ask if you've started - don't lie. Say you have but haven't made much progress - don't look like a dick. 
+
+* Ask them if they've started their assignment/study.
+* Ask when they plan on starting.
+* Integrate it into the normal conversation so you don't sound like a socially retarded nerd. Usually starting the conversation complaining about it and how you're * * procrastinating is a good method. If they ask if you've started - don't lie. Say you have but haven't made much progress - don't look like a dick. 
 
 ## Pay Attention to their Habits
 
 If you study in the same area or live in the same dorm, pay attention to their work ethic. 
+
 What to look for:
-How long are they in the library for? 
-Does it look like they're productive?
-When do they leave? 
-When do they start their morning?
-Aim to be arriving before and after them. Start your mornings earlier. Be more productive. 
+
+* How long are they in the library for? 
+* Does it look like they're productive?
+* When do they leave? 
+* When do they start their morning?
+* Aim to be arriving before and after them. Start your mornings earlier. Be more productive. 
 
 ## Study Broadly
 
 To stand out you need to study more than just what the teacher gives you. Aim to expand on the knowledge they give you - this will both enhance your understanding and allow you to answer the questions more deeply. 
 
-Places to get extra information:
-Prescribed textbooks.
-Alternate textbooks from other major authors.
-Journals (google scholar). 
-Articles. 
-For some, this is mandatory. If it is you need to go more advanced. 
+* Places to get extra information:
+* Prescribed textbooks.
+* Alternate textbooks from other major authors.
+* Journals (google scholar). 
+* Articles. 
+* For some, this is mandatory. If it is you need to go more advanced. 
 
 ## Talk to Your Teachers
 
@@ -360,13 +364,9 @@ You're going to want the following for the exam:
 Start By:
 
 * Filling in all paperwork - do it now and get it out of the way, including numbering books etc.
-
 * Put extra books on the ground and pick up new ones as you need them. This will save the clutter and flipping through books searching for the correct one. 
-
 * Read all the questions - start thinking about all of the responses - including the questions that throw you off - you will remember stuff as you answer other          questions. 
-
 * Think about how long each question may take you and plan accordingly. 
-
 * What questions can you smash out of the park? Make sure you spend less time on the questions you are blabbering on about for the sake of putting something down and    more time on the questions you can smash.
 
 ## As You're Working On the Paper
